@@ -1,4 +1,4 @@
-### Hi there, Nice to meet you 👋
+### Hi there 👋, Nice to meet you
 
 <!--
 **vkbishu/vkbishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
