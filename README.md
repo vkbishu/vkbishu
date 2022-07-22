@@ -1,12 +1,13 @@
 ### Hi there 👋, Nice to meet you
 
-I am Venkatesh bishu. A software engineer who love to:
+I am Venkatesh bishu. A **frontend engineer** who love to:
 
 - write clean codes
 - create setup for application
 - develop applications that can solve real world problem
-- talk about web technolgies
+- talk about modern web technolgies
 - contribute to open source projects
+  
 
 <!--
 **vkbishu/vkbishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
