@@ -2,8 +2,7 @@
 
 I am Venkatesh bishu. A **frontend engineer** who love to:
 
-- write clean codes
-- create setup for application
+- develop setup for application
 - develop applications that can solve real world problem
 - talk about modern web technolgies
 - contribute to open source projects
