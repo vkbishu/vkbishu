@@ -25,7 +25,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 </h3>
+<br/>
+
+### Skills 
+
+#### Frontend
+![Frontend](https://skillicons.dev/icons?perline=5&i=vue,nuxtjs,jquery,js,ts,sass,css,bootstrap,tailwind,html "Frontend")
+
+#### Backend
+![Backend](https://skillicons.dev/icons?perline=5&i=nodejs,express,mysql,mongodb,firebase,sqlite,php,laravel "Backend")
+
+#### Others
+![Other Skills](https://skillicons.dev/icons?perline=5&i=vscode,git,github,netlify,heroku,atom "Other SKills")
+
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 
 <div class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/vkbishu/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
