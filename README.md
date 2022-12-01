@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Nice to meet you
 
-I am Venkatesh bishu. A **frontend engineer** who love to:
+I am Venkatesh bishu. A **Software Engineer** who love to:
 
 - develop setup for application
 - develop applications that can solve real world problem
