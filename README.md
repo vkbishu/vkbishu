@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Skills 
+### Language & Tools 
 
 #### Frontend
 ![Frontend](https://skillicons.dev/icons?perline=5&i=vue,nuxtjs,jquery,js,ts,sass,css,bootstrap,tailwind,html "Frontend")
